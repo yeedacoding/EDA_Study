@@ -1,0 +1,5 @@
+title,exchange,change,updown,link
+미국 USD,"1,319.00", 1.00,하락,https://finance.naver.com//marketindex/exchangeDetail.naver?marketindexCd=FX_USDKRW
+일본 JPY(100엔),914.10, 5.02,하락,https://finance.naver.com//marketindex/exchangeDetail.naver?marketindexCd=FX_JPYKRW
+유럽연합 EUR,"1,460.66", 9.23,하락,https://finance.naver.com//marketindex/exchangeDetail.naver?marketindexCd=FX_EURKRW
+중국 CNY,187.76, 0.64,하락,https://finance.naver.com//marketindex/exchangeDetail.naver?marketindexCd=FX_CNYKRW
